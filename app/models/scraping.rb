@@ -34,6 +34,7 @@ class Scraping
   end
 end
 
+
     # lists.each do |list|
     # puts list.at('pubdate').inner_text
     # end
